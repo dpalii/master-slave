@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "master-slave-tests", "master-slave-tests.csproj", "{44A69961-46CF-4D51-AB5E-533CA5E79FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A69961-46CF-4D51-AB5E-533CA5E79FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A69961-46CF-4D51-AB5E-533CA5E79FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A69961-46CF-4D51-AB5E-533CA5E79FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A69961-46CF-4D51-AB5E-533CA5E79FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3244F280-F830-4B0B-822F-B8D8786C207B}
+	EndGlobalSection
+EndGlobal
